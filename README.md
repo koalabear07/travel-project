@@ -1,2 +1,2 @@
 # cwIntra
-my awesome cw website
+My CW Intra website :)
